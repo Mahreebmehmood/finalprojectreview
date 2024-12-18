@@ -1,0 +1,9 @@
+div{
+    
+    height: 400px;
+    width: 350px;
+    opacity: 50%;
+    border-radius: 50%;
+    background-color: azure;
+    font-style: oblique;
+}

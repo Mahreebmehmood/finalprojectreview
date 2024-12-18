@@ -1,0 +1,28 @@
+.container{
+    height: 350px;
+    width: 250px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: -4px 10px 13px 4px rgba(201,187,201,1);
+
+}
+body{
+    background-color: ghostwhite;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color: rgb(223, 31, 63);
+}
+input{
+    height: 30px;
+    width: 200px;
+    margin-top: 10px;
+}
+input[type="submit"]{
+    color: white;
+    background-color: royalblue;
+}
+
+
+

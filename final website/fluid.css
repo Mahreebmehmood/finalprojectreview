@@ -1,0 +1,13 @@
+.img-fluid:hover{
+ 
+   box-shadow: 5px 5px 2px 3px rgba(255, 255, 255, 0.372) ;
+    
+}
+body{
+ 
+    height: 200vh;
+    background-repeat:no-repeat ;
+    margin: 0;
+    padding: 0;
+}
+
